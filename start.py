@@ -2,4 +2,5 @@ print("hello world")
 
 if 1 == 1:
     print("1==1")
-else False
+else:
+    print(False)
